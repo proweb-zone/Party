@@ -1,0 +1,57 @@
+{
+  "title": "Вечеринка",
+  "header_banner": "https://wiki.proweb-zone.ru/test/header_banner.png",
+  "name_inventer": "Именины",
+  "photo_inventer": "https://wiki.proweb-zone.ru/test/avatar3.png",
+  "user_initiator": "Кристина",
+  "guests": [
+    {
+      "name": "Инесса",
+      "avatar": "https://wiki.proweb-zone.ru/test/avatar3.png"
+    },
+    {
+      "name": "Василий",
+      "avatar": "https://wiki.proweb-zone.ru/test/avatar2.png"
+    },
+    {
+      "name": "Инесса",
+      "avatar": "https://wiki.proweb-zone.ru/test/avatar3.png"
+    },
+    {
+      "name": "Виталик",
+      "avatar": "https://wiki.proweb-zone.ru/test/avatar2.png"
+    },
+    {
+      "name": "Ольга",
+      "avatar": "https://wiki.proweb-zone.ru/test/avatar3.png"
+    },
+    {
+      "name": "Дмитрий",
+      "avatar": "https://wiki.proweb-zone.ru/test/avatar2.png"
+    },
+    {
+      "name": "Марина",
+      "avatar": "https://wiki.proweb-zone.ru/test/avatar3.png"
+    },
+    {
+      "name": "Виктор",
+      "avatar": "https://wiki.proweb-zone.ru/test/avatar2.png"
+    },
+    {
+      "name": "Елена",
+      "avatar": "https://wiki.proweb-zone.ru/test/avatar3.png"
+    },
+    {
+      "name": "Васисуалий",
+      "avatar": "https://wiki.proweb-zone.ru/test/avatar2.png"
+    },
+    {
+      "name": "Инесса",
+      "avatar": "https://wiki.proweb-zone.ru/test/avatar3.png"
+    },
+    {
+      "name": "Васисуалий",
+      "avatar": "https://wiki.proweb-zone.ru/test/avatar2.png"
+    }
+  ]
+}

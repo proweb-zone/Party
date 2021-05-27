@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Party App</string>
+    <string name="name_guest">Name Guest</string>
+    <string name="name_logo_user">Logo</string>
+</resources>
